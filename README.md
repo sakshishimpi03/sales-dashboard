@@ -38,7 +38,7 @@ The dashboard helps track Key Performance Indicators (KPIs), analyze business tr
 
 ## 🎥 Project Demo
 
-[▶️ Watch the Sales Dashboard Demo](video.mp4)
+[▶️ Watch the Sales Dashboard Demo](https://drive.google.com/file/d/14nOmtgHaO5zmmWkjbDFj_o9uW3sMQD6I/view?usp=drive_link)
 
 ## 📁 Project Files
 
